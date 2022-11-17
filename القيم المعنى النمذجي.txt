@@ -1,0 +1,19 @@
+
+
+Model Mean Values :
+================
+78.4463377603
+87.7689143744
+114.895847746
+
+File names :
+==========
+1- Age :
+data/deploy_age.prototxt
+data/age_net.caffemodel
+
+2- Gender :
+data/deploy_gender.prototxt
+data/gender_net.caffemodel
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||
